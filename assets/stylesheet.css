@@ -1,6 +1,67 @@
 body 
 {
-    width:960px;
+    background-color: lightgray;
+}
+.content
+{
+    width:65%;
+    background-color: white;
+    margin-left: 5%;
+    margin-top: 2%;
+    padding: 2%;
+}
+.pages
+{
+    float: right;
+    margin-left: 70%;
+}
+.name 
+{
+    float: left;
+    margin-left: 5%;
+    
+}
+.heading
+{
+    border-bottom: 1px solid silver;
+    padding-bottom: 3%;
+    color: rgb(43, 93, 150)
+}
+.hasBorder
+{
+    border-right: 1px solid silver;
+}
+.stuff
+{
+    margin-top: 6%;
+}
+.container
+{
+    width: 100%;
+}
+footer
+{
+    margin-top: 15%;
+    background-color: rgb(51, 45, 45);
+    border-top: 3px solid rgb(43, 93, 150);
+    width: 0 auto;
+    padding-top: 1%;
+    
+}
+
+img 
+{
+    width: 100%;
+    height: 100%;
+}
+.copyright
+{
+    text-align: center;
+    color: white;
     align-content: center;
-    margin-left: 200px;
+    padding-bottom: 1%;
+}
+#exampleMessage1
+{
+    height: 30%;
 }
